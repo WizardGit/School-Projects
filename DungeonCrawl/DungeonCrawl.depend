@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1547948713 source:c:\users\kaiser slocum\desktop\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1548101324 source:e:\lcc winter 2019\cs 162c+\topic 2 - array algorithms\activities\programming assignment\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1548055062 source:g:\lcc winter 2019\cs 162c+\topic 2 - array algorithms\activities\programming assignment\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1548101324 source:f:\lcc winter 2019\cs 162c+\topic 2 - array algorithms\activities\programming assignment\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1549921802 source:d:\lcc winter 2019\cs 162c+\topic 2 - array algorithms\activities\programming assignment\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<limits>
+
