@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1547152831 source:c:\users\student\downloads\tictactoe\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1547171590 source:e:\lcc winter 2019\cs 162c+\topic 1 - grouping data in arrays\activities\programming assignment\tictactoe\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1547172818 source:g:\lcc winter 2019\cs 162c+\topic 1 - grouping data in arrays\activities\programming assignment\tictactoe\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1547501890 source:d:\lcc winter 2019\cs 162c+\topic 1 - grouping data in arrays\activities\programming assignment\tictactoe\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<limits>
+
