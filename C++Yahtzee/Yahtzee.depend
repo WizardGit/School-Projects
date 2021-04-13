@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551304704 source:c:\users\kaiser slocum\desktop\yahtzee\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
+1551979604 source:f:\lcc winter 2019\cs 161c+\topic 11 - functions and separate compilation\tasks\programming assignment\yahtzee\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
