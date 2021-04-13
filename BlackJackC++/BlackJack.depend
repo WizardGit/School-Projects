@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1552762419 source:c:\users\kaiser slocum\desktop\blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<limits>
+	"Player.h"
+	"Dealer.h"
+
+1552757545 source:c:\users\kaiser slocum\desktop\blackjack\src\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1552757545 c:\users\kaiser slocum\desktop\blackjack\include\blackjackhand.h
+	"PlayingCard.h"
+
+1552757545 c:\users\kaiser slocum\desktop\blackjack\include\playingcard.h
+	<string>
+
+1552757545 source:c:\users\kaiser slocum\desktop\blackjack\src\playingcard.cpp
+	"PlayingCard.h"
+
+1552757545 source:c:\users\kaiser slocum\desktop\blackjack\src\playingcarddeck.cpp
+	"PlayingCardDeck.h"
+	<stdlib.h>
+	<iostream>
+
+1552757545 c:\users\kaiser slocum\desktop\blackjack\include\playingcarddeck.h
+	"PlayingCard.h"
+
+1552762575 source:c:\users\kaiser slocum\desktop\blackjack\src\player.cpp
+	"Player.h"
+
+1552760961 c:\users\kaiser slocum\desktop\blackjack\include\player.h
+	"BlackJackHand.h"
+	<iostream>
+
+1552761664 source:c:\users\kaiser slocum\desktop\blackjack\src\dealer.cpp
+	"Dealer.h"
+
+1552761613 c:\users\kaiser slocum\desktop\blackjack\include\dealer.h
+	"Player.h"
+	"PlayingCardDeck.h"
+	<iostream>
+
+1552762950 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<limits>
+	"Player.h"
+	"Dealer.h"
+
+1552760962 g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\player.h
+	"BlackJackHand.h"
+	<iostream>
+
+1552757546 g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\blackjackhand.h
+	"PlayingCard.h"
+
+1552757546 g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\playingcard.h
+	<string>
+
+1552761614 g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\dealer.h
+	"Player.h"
+	"PlayingCardDeck.h"
+	<iostream>
+
+1552757546 g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\playingcarddeck.h
+	"PlayingCard.h"
+
+1552757546 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1552757546 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\playingcard.cpp
+	"PlayingCard.h"
+
+1552757546 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\playingcarddeck.cpp
+	"PlayingCardDeck.h"
+	<stdlib.h>
+	<iostream>
+
+1552766138 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\dealer.cpp
+	"Dealer.h"
+
+1552766138 source:g:\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\player.cpp
+	"Player.h"
+
+1552757546 source:c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1552757546 c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\blackjackhand.h
+	"PlayingCard.h"
+
+1552757546 c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\playingcard.h
+	<string>
+
+1552757546 source:c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\playingcard.cpp
+	"PlayingCard.h"
+
+1552757546 source:c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\src\playingcarddeck.cpp
+	"PlayingCardDeck.h"
+	<stdlib.h>
+	<iostream>
+
+1552757546 c:\users\kaizar\documents\kaiser documents\school related files\actual school files\lanecc school files\lcc winter 2019\cs 162c+\topic 12 - inheritance and polymorphism\activities\programming assignment\blackjack\include\playingcarddeck.h
+	"PlayingCard.h"
+
