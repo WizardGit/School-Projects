@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1551038334 source:e:\lcc winter 2019\cs 161c+\topic 10 - function parameters\tasks\programming assignment\rockpaperscissors\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<limits>
+	<cstdlib>
+	<ctime>
+
+1551155492 source:g:\lcc winter 2019\cs 161c+\topic 10 - function parameters\tasks\programming assignment\rockpaperscissors\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<limits>
+	<cstdlib>
+	<ctime>
+
