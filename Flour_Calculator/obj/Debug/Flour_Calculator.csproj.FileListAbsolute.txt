@@ -1,0 +1,24 @@
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\bin\Debug\Flour_Calculator.exe.config
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\bin\Debug\Flour_Calculator.exe
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\bin\Debug\Flour_Calculator.pdb
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.csprojAssemblyReference.cache
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.AddFlour.resources
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.NeedFlour.resources
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.Properties.Resources.resources
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.WantFlour.resources
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.csproj.GenerateResource.cache
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.csproj.CoreCompileInputs.cache
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.exe
+E:\UO Spring 2021\CIS 407 - 507\Flour_Calculator\obj\Debug\Flour_Calculator.pdb
+C:\Users\slocu\Desktop\Flour_Calculator\bin\Debug\Flour_Calculator.exe.config
+C:\Users\slocu\Desktop\Flour_Calculator\bin\Debug\Flour_Calculator.exe
+C:\Users\slocu\Desktop\Flour_Calculator\bin\Debug\Flour_Calculator.pdb
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.csprojAssemblyReference.cache
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.HaveFlour.resources
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.NeedFlour.resources
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.Properties.Resources.resources
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.WantFlour.resources
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.csproj.GenerateResource.cache
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.exe
+C:\Users\slocu\Desktop\Flour_Calculator\obj\Debug\Flour_Calculator.pdb
